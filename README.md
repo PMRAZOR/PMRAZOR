@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=200&animation=fadeIn&fontSize=40&fontAlignY=55&fontColor=ffffff&text=PM.RAZOR)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hslee1659)](https://solved.ac/hslee1659)
-<img src="https://github-readme-stats.vercel.app/api?username=PMRAZOR&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" width="400" alt="PM.RAZOR's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PMRAZOR&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" width="420" alt="PM.RAZOR's GitHub stats" />
 
 <!--
 **PMRAZOR/PMRAZOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
