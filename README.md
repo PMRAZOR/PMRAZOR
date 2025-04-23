@@ -9,8 +9,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=PMRAZOR&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" width="405" alt="PM.RAZOR's GitHub stats" />
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **PMRAZOR/PMRAZOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
