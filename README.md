@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&text=PM.RAZOR)
+![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=400&textBg=true&animation=fadeIn&fontColor=d6ace6&text=PM.RAZOR)
 
 <!--
 **PMRAZOR/PMRAZOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
