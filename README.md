@@ -1,7 +1,6 @@
 <!-- 헤더 이미지 -->
 ![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=200&animation=fadeIn&fontSize=40&fontAlignY=55&fontColor=ffffff&text=PM.RAZOR)
 
-<h3 align="center">Cards</h3>
 <div align="center">
   <a href="https://solved.ac/hslee1659">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hslee1659" alt="Solved.ac" />
@@ -21,7 +20,7 @@
 <br><br>
 
 <h3 align="center">Contact</h3>
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp
   </a>
