@@ -11,9 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://solved.ac/hslee1659">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hslee1659" alt="Solved.ac" />
-  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=hslee1659&theme=warm"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMRAZOR&layout=compact" width="405" alt="Top Langs" />
 </div>
