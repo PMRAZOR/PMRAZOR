@@ -15,7 +15,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hslee1659" alt="Solved.ac" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hslee1659&layout=compact" width="405" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMRAZOR&layout=compact" width="405" alt="Top Langs" />
 </div>
 
 <!--
