@@ -13,7 +13,7 @@
 <div align="center">
   <img src="http://mazandi.herokuapp.com/api?handle=hslee1659&theme=warm"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMRAZOR&layout=compact" height="100" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMRAZOR&layout=compact" height="150" width="405" alt="Top Langs" />
 </div>
 
 <!--
