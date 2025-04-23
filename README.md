@@ -8,7 +8,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=PMRAZOR&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" width="405" alt="PM.RAZOR's GitHub stats" />
 </div>
-
+<!--
 <br><br>
 
 <div align="center">
@@ -16,7 +16,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMRAZOR&layout=compact" height="165" width="405" alt="Top Langs" />
 </div>
-
+-->
 <br><br>
 
 <h3 align="center">Contact</h3>
