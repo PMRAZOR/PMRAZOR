@@ -12,9 +12,14 @@
 <div align="center">
   <img src="http://mazandi.herokuapp.com/api?handle=hslee1659&theme=warm"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMRAZOR&layout=compact" height="170" width="405" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMRAZOR&layout=compact" height="165" width="405" alt="Top Langs" />
 </div>
 
+<div align="center">
+  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp
+  </a>
+</div>
 <!--
 **PMRAZOR/PMRAZOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
