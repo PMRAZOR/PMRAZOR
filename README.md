@@ -21,7 +21,7 @@
 
 <h3 align="center">Contact</h3>
 <div align="center">
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID">
+  <a href="https://www.youtube.com/@pmrazor">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp
   </a>
 </div>
